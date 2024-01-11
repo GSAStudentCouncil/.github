@@ -1,12 +1,6 @@
-## Hi there 👋
+# 광주과학고등학교 학생회
 
-<!--
+<img src="https://github.com/GSAStudentCouncil/.github/assets/101965838/e28f70f5-b5a9-49dd-a8be-07555dfd0c75" width=100 />
+<img src="https://github.com/GSAStudentCouncil/.github/assets/101965838/770857b2-6d43-4c2c-b540-913515be9b76" width=100 />
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+과학영재학교 광주과학고등학교 학생회 공식 GitHub 페이지에 오신 것을 환영합니다.
